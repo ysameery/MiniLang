@@ -1,0 +1,5 @@
+let x = 10 + 20 * 2;
+let y = (5 + 5) * 3;
+
+print(x);
+print(y);
